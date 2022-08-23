@@ -26,16 +26,19 @@ public class chapter_one_notes
         
         // these are the basic data type
         int x = 9,y,z;
-        
         double num = 5, num1 = 23.65456;
-        
         char letter = 'd';
-        
-        boolean choice 
+        boolean choice = false;
+        float laer = 785;
+        long a = 9;
+        short b = 5;
         
         // these are objects 
         
         String word = new String("faisal"); 
+        Integer number = new Integer(8);
+        Double number2 = new Double(8.32);
+        
         
     }
     
